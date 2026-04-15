@@ -9,7 +9,9 @@ read choice
 
 case $choice in 
  1)
- 	echo "nice, now I have to write the code twin."
+ 	echo "okay loading twin"
+   
+   source Scammer1.sh
     ;;
 
  2)
