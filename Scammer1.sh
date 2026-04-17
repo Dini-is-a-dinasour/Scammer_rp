@@ -26,6 +26,7 @@ echo "you reply with $an"
  	sleep 1
  	echo "*line cuts twin*"
  	sleep 1
+ 	source Finish.sh
   ;;
 
   2)
@@ -39,6 +40,7 @@ echo "you reply with $an"
 
  esac
 
+echo "testing if it continues after the case file"
 
 
  
