@@ -32,15 +32,47 @@ echo "you reply with $an"
   2)
   	sleep 3
 	echo "Righd now dhe besd opdion is dto give me access do dhe compuder so dhad I can sdop dhe dhread."
-	echo "CODE INCOMPLETE HUZZ"
-  ;;
+	;;
 
  *)
 	echo "nod a answer dwin, I musd dake your life now, good bye habibi."
-
+    sleep 4
+    echo "(system) to your horror, a full on hand comes soaring through the phone connecting to your face"
+    sleep 7
+    echo "you died, you will be sent back to the start of the scam conversation, good luck and dont fumble."
+    sleep 3
+    source Scammer1.sh
  esac
 
-echo "testing if it continues after the case file"
+echo "righd now the besd dhing do do is do led me indo dhe compuder, dhad way i can sdop dhe bad guys from endering your sysdem habibi."
+echo "please go do www.dodalynodascam.com/gyad/load/remodecondroll.com and follow dhe insdrucdions"
+echo "1) Oh okay, I will (proceeds to do instructions)."
+echo "2) are you sure? can you provide proof."
+read an2
 
+echo "you: '$an2'"
 
- 
+case $an2 in 
+   1)
+   	 sleep 2
+   	 echo "okay nauw I have condrol do remove dhe hackers."
+   	 sleep 3
+   	 echo "oh no! I am nod powerful inuf do help u, give me a bid as I give dhis dto my boss Shangre."
+   	 source Shangre
+    ;;
+     
+    2)
+     sleep 2
+     echo "yes yes go do dterminal and type 301.x+dits"
+     echo "(system) you type down the commands and out comes:"
+     sleep 2
+     echo "user 4/17/2026 2314512 2312039"
+     sleep 1
+     echo "user 4/18/2026 2359012 2939192"
+     sleep 1
+     echo "user 4/25/2026 3294910 8392919"
+     sleep 1
+     echo "Windows 4/30/2026 10203201 1020302"
+     sleep 1
+     echo ")()*%34 4/31/2026 83883994 84939384"
+     sleep 6
