@@ -16,24 +16,28 @@ sleep 3
 
 echo "1) sir I dont have a microsoft account, Im a dedicated apple user bye."
 echo "2) Oh no! What ever could I do?"
-read $A 
-echo "you reply with '$A'"
+read an 
+echo "you reply with $an"
 
- case $A in 
- 1)
+ case $an in
+  1)
+  	sleep 3
  	echo "SHID"
  	sleep 1
  	echo "*line cuts twin*"
  	sleep 1
- ;;
+  ;;
 
- 2)
+  2)
+  	sleep 3
 	echo "Righd now dhe besd opdion is dto give me access do dhe compuder so dhad I can sdop dhe dhread."
 	echo "CODE INCOMPLETE HUZZ"
- ;;
+  ;;
 
-*)
+ *)
 	echo "nod a answer dwin, I musd dake your life now, good bye habibi."
+
+ esac
 
 
 
