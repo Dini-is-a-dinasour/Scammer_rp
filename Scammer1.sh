@@ -59,20 +59,30 @@ case $an2 in
    	 sleep 3
    	 echo "oh no! I am nod powerful inuf do help u, give me a bid as I give dhis dto my boss Shangre."
    	 source Shangre
-    ;;
+   ;;
      
-    2)
-     sleep 2
-     echo "yes yes go do dterminal and type 301.x+dits"
-     echo "(system) you type down the commands and out comes:"
-     sleep 2
-     echo "user 4/17/2026 2314512 2312039"
-     sleep 1
-     echo "user 4/18/2026 2359012 2939192"
-     sleep 1
-     echo "user 4/25/2026 3294910 8392919"
-     sleep 1
-     echo "Windows 4/30/2026 10203201 1020302"
-     sleep 1
-     echo ")()*%34 4/31/2026 83883994 84939384"
-     sleep 6
+   2)
+      sleep 2
+      echo "yes yes go do dterminal and type 301.x+dits"
+      echo "(system) you type down the commands and out comes:"
+      sleep 2
+      echo "user 4/17/2026 2314512 2312039"
+      sleep 1
+      echo "user 4/18/2026 2359012 2939192"
+      sleep 1
+      echo "user 4/25/2026 3294910 8392919"
+      sleep 1
+      echo "Windows 4/30/2026 10203201 1020302"
+      sleep 1
+      echo ")()*%34 4/31/2026 83883994 84939384"
+      sleep 6
+      echo "dhis is all of dhe ppl who have accesed your accound in dhe previous days habibi."
+      sleep 2
+      echo "see dhad very naughdy symbols dhere? id is dhe hacker, now led me gain condrol of your device in order do un hack your bootiful compuder."
+   ;;
+
+   *)
+      echo "Sorry sir, I do nod undersdand your requesd, I will houk you up do my manager, William sduward."
+      source Shangre
+   ;;
+esac
