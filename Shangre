@@ -1,5 +1,6 @@
 #!/bin/bash
-echo "hello dthere my name is Shangre, I am Josh's boss!"
+sleep 4
+echo "hello dthere my name is William, I am Josh's boss!"
 echo "how are you today?"
 sleep 2
  echo "1) worried"
