@@ -50,10 +50,11 @@ echo "1) Oh okay, I will (proceeds to do instructions)."
 echo "2) are you sure? can you provide proof."
 read an2
 
-echo "you: '$an2'"
+
 
 case $an2 in 
    1)
+      echo "you: Oh okay, I will."
    	 sleep 2
    	 echo "okay nauw I have condrol do remove dhe hackers."
    	 sleep 3
@@ -62,6 +63,7 @@ case $an2 in
    ;;
      
    2)
+      echo "You: are you sure? can u provide proof?"
       sleep 2
       echo "yes yes go do dterminal and type 301.x+dits"
       echo "(system) you type down the commands and out comes:"
@@ -86,3 +88,8 @@ case $an2 in
       source Shangre
    ;;
 esac
+
+echo "You: Oh this is terrible, what can I do to fix it?"
+sleep 3
+echo "sir what you need do do is do, dalk do my manager, William sduward"
+source Shangre
