@@ -92,8 +92,20 @@ case $ans in
     sleep 4
     echo "(system) more screaming later, then the line cuts."
     source Finish.sh  	
-    
+  ;;
 
+  3)
+    echo "You: I aint falling for this gng."
+    echo "shid, screw u"
+    echo "-line cuts-"
+    source Finish.sh 
+  ;;
+
+  *)
+    echo "(system) not an answer. rebooting to last checkpoint; scammer boss"
+    source Shangre.sh 
+  ;;
+esac
 
 
 
