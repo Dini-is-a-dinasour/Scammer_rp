@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sleep 2
+clear
 echo "hey there, its the system, you have succesfully beaten the scammer, very well done"
 sleep 3
 echo "in this constantly evolving capatalistic world we must prepare for people who use unethical means to gain profit."

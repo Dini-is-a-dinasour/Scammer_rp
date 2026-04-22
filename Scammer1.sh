@@ -25,7 +25,7 @@ echo "you reply with $an"
  	echo "SHID"
  	sleep 1
  	echo "*line cuts twin*"
- 	sleep 1
+ 	sleep 3
  	source Finish.sh
   ;;
 
@@ -59,7 +59,7 @@ case $an2 in
    	 echo "okay nauw I have condrol do remove dhe hackers."
    	 sleep 3
    	 echo "oh no! I am nod powerful inuf do help u, give me a bid as I give dhis dto my boss Shangre."
-   	 source Shangre
+   	 source Shangre.sh
    ;;
      
    2)
@@ -85,11 +85,11 @@ case $an2 in
 
    *)
       echo "Sorry sir, I do nod undersdand your requesd, I will houk you up do my manager, William sduward."
-      source Shangre
+      source Shangre.sh
    ;;
 esac
 
 echo "You: Oh this is terrible, what can I do to fix it?"
 sleep 3
 echo "sir what you need do do is do, dalk do my manager, William sduward"
-source Shangre
+source Shangre.sh
