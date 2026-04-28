@@ -17,10 +17,11 @@ sleep 3
 echo "1) sir I dont have a microsoft account, Im a dedicated apple user bye."
 echo "2) Oh no! What ever could I do?"
 read an 
-echo "you reply with $an"
+
 
  case $an in
   1)
+   echo "You: Sir I do not have a microsoft account, Im a dedicated apple user, what can u possibly be talking about?"
   	sleep 3
  	echo "SHID"
  	sleep 1
@@ -30,6 +31,7 @@ echo "you reply with $an"
   ;;
 
   2)
+   echo "Oh no dady what can I ever do? Please tell me fast! "
   	sleep 3
 	echo "Righd now dhe besd opdion is dto give me access do dhe compuder so dhad I can sdop dhe dhread."
 	;;
