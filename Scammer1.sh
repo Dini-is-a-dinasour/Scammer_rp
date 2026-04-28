@@ -69,17 +69,17 @@ case $an2 in
       sleep 2
       echo "yes yes go do dterminal and type 301.x+dits"
       echo "(system) you type down the commands and out comes:"
-      sleep 2
+      sleep 5
       echo "user 4/17/2026 2314512 2312039"
-      sleep 1
+      sleep 2
       echo "user 4/18/2026 2359012 2939192"
-      sleep 1
+      sleep 2
       echo "user 4/25/2026 3294910 8392919"
-      sleep 1
+      sleep 2
       echo "Windows 4/30/2026 10203201 1020302"
-      sleep 1
+      sleep 2
       echo ")()*%34 4/31/2026 83883994 84939384"
-      sleep 6
+      sleep 7
       echo "dhis is all of dhe ppl who have accesed your accound in dhe previous days habibi."
       sleep 2
       echo "see dhad very naughdy symbols dhere? id is dhe hacker, now led me gain condrol of your device in order do un hack your bootiful compuder."
@@ -92,6 +92,9 @@ case $an2 in
 esac
 
 echo "You: Oh this is terrible, what can I do to fix it?"
-sleep 3
+sleep 6
 echo "sir what you need do do is do, dalk do my manager, William sduward"
+sleep 1
+echo "beep beep -line change-"
+sleep 5
 source Shangre.sh
