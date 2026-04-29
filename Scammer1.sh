@@ -79,7 +79,7 @@ case $an2 in
       echo "Windows 4/30/2026 10203201 1020302"
       sleep 2
       echo ")()*%34 4/31/2026 83883994 84939384"
-      sleep 7
+      sleep 8
       echo "dhis is all of dhe ppl who have accesed your accound in dhe previous days habibi."
       sleep 2
       echo "see dhad very naughdy symbols dhere? id is dhe hacker, now led me gain condrol of your device in order do un hack your bootiful compuder."
