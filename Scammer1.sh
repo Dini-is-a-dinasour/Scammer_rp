@@ -56,10 +56,20 @@ read an2
 
 case $an2 in 
    1)
-      echo "you: Oh okay, I will."
+      echo "you: Oh yes daddy, I will do what EVER you say without question ;)."
    	 sleep 2
    	 echo "okay nauw I have condrol do remove dhe hackers."
-   	 sleep 3
+   	 sleep 2
+       echo "hackin"
+       sleep 2
+       echo "hackin"
+       sleep 2
+       echo "hackin"
+       sleep 2
+       echo "hackin"
+       sleep 2
+       echo "hackin"
+       sleep 3
    	 echo "oh no! I am nod powerful inuf do help u, give me a bid as I give dhis dto my boss Shangre."
    	 source Shangre.sh
    ;;

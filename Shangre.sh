@@ -28,7 +28,7 @@ case $ans in
 
    case $dih in 
    	 1)
-   	 	echo "You: sure why not, I would love to get a anti virus (proceeds to download and pay for the anti virus)"
+   	 	echo "You: Yes please big boy, I would love to get what ever you want me to download(proceeds to download and pay for the anti virus)"
    	 	echo "dhank you so much friend."
    	 	source Scammed.sh
    	 	exit 0
@@ -46,17 +46,20 @@ case $ans in
 
        case $suk in 
        	 1) 
-       	 	echo "You: fine Ill trust you."
+       	 	echo "You: oH that Makes SOOO much sense I trust you completly with no doubt in my mind, so show me how to download this..."
+          sleep 9
        	 	source Scammed.sh
        	 	exit 0
        	 	;;
        	 2)
        	 	echo "You: HELL NAH I AINT FALLING FOR TIS. HEHEHEHHAW (cuts line like a furry)"
+          sleep 4
        	 	source Finnish.sh
        	 	;;
        	 *)
        	 	echo "(system) not an option, picking #1"
        	 	echo "You: fine Ill trust you"
+          sleep 10
        	 	source Scammed.sh
        	 	exit 0
        	 	;;
@@ -67,6 +70,7 @@ case $ans in
      	echo "(System) Was not an option. instead will choose #1"
    	 	echo "You: sure why not, I would love to get a anti virus (proceeds to download and pay for the anti virus)"
    	 	echo "dhank you so much friend."
+      sleep 10
    	 	source Scammed.sh
    	 	exit 0
    	 	;;
@@ -91,6 +95,7 @@ case $ans in
     echo "YOUR FIRED HABIBI, YOUR OUDT OF DHE DEAM IMMEDIADLY"
     sleep 4
     echo "(system) more screaming later, then the line cuts."
+    sleep 5
     source Finish.sh  	
   ;;
 
