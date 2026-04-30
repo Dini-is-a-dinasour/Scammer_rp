@@ -20,6 +20,7 @@ read goon
 
 case $goon in 
   1)
+    echo "You I want to rethink my life choices system; Im a dumbass who needs recollection"
   	echo "so you chose to rethink your life choices huh? well heres $pptx amount of seconds to think about what you have done."
   	sleep 6
   	clear

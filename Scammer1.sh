@@ -101,7 +101,7 @@ case $an2 in
    ;;
 esac
 
-echo "You: Oh this is terrible, what can I do to fix it?"
+echo "You: Oh this is terrible, what can I do to fix it mannnn?"
 sleep 6
 echo "sir what you need do do is do, dalk do my manager, William sduward"
 sleep 1
