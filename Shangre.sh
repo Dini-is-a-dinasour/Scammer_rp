@@ -12,7 +12,7 @@ sleep 2
 
 case $ans in 
  1)
- 	echo "You: Im very worried cause of the hacker."
+ 	echo "You: Im very worried cause of the baddie hacker."
  	sleep 2
  	echo "Well dond worry dwin I gotd you."
  	sleep 1
@@ -24,25 +24,25 @@ case $ans in
  	echo "(system) reply with:"
  	echo "1) sure why not, I would love to get a anti virus"
  	echo "2) no thank you :)."
-   read $dih
+   read dih
 
    case $dih in 
-   	 1)
+   	1)
    	 	echo "You: Yes please big boy, I would love to get what ever you want me to download(proceeds to download and pay for the anti virus)"
    	 	echo "dhank you so much friend."
    	 	source Scammed.sh
    	 	exit 0
    	 	;;
-	 2)
-	 	echo "You: sorry I dont like the idea of downloading something dangerous and i know your a scammer."
-	 	sleep 2
-	 	echo "NO NO NO, YOU MUSTDNTD, Please sir, we are nod scammers sir, we are a microsofd company sir"
-	 	sleep 1
+	  2)
+	 	  echo "You: sorry I dont like the idea of downloading something dangerous and i know your a scammer."
+	 	  sleep 2
+	 	  echo "NO NO NO, YOU MUSTDNTD, Please sir, we are nod scammers sir, we are a microsofd company sir"
+	 	  sleep 1
 	    echo "(system) reply with:"
  	    echo "1) fine Ill trust you."
  	    echo "2) NO. (cuts the line)"
         
-       read $suk
+       read suk
 
        case $suk in 
        	 1) 
@@ -78,7 +78,7 @@ case $ans in
    	;;
 
  2)
-    echo "You: I thought you where Shangre?"
+    echo "You: I thought you where dady Shangre?"
     sleep 2
     echo "..."
     sleep 4
@@ -100,9 +100,12 @@ case $ans in
   ;;
 
   3)
-    echo "You: I aint falling for this gng."
+    echo "You: I aint falling for this big back fat bass looking ah FILTHY scammer."
+    sleep 3
     echo "shid, screw u"
+    sleep 3
     echo "-line cuts-"
+    sleep 5
     source Finish.sh 
   ;;
 
