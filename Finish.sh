@@ -19,7 +19,7 @@ sleep 8
 echo "Ongoing engagement with training simulations of this nature is recommended to further strengthen your ability to detect, assess, and mitigate potential security threats."
 sleep 8
 echo "This concludes the system message. Thank you for your participation. Maintain vigilance and prioritize information security at all times."
-sleep 10
+sleep 15
 echo "Did you really think I was actually serious"
 sleep 4
 echo "HA, I didnt mean any of that rubish, Ima just end it here cuz ur probably bored by now, dont get scammed homie."

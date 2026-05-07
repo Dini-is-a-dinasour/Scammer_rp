@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in {1..3}
+for i in {1..6}
 do
  sleep 1
  echo "(scammer calling)"
@@ -9,6 +9,8 @@ done
 echo "(you pick up the phone)"
 echo "scammer: 'hello, how are you doing duday sir?"
 read $usless
+echo "You: Im doing amazing big boi, what can i possibly do to satisfy your urge?"
+sleep 2
 echo "well ids aboud do ged worse sir."
 sleep 3
 echo "Unfordunadly your microsofd accound has been compromised. Your accound Ireneedshelp@gmail.gom has been charged widh some very very naughty sduff sir."
