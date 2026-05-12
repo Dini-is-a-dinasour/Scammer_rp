@@ -2,6 +2,7 @@
 echo "hello there, this is a peak sim of a scammer to prepare you for future scammers. (this is just for fun)"
 sleep 2
 echo "do you want to continue? (choose the numbers from now on k?)"
+echo " if you didnt notice before; (choose the numbers from now on k?)"
 echo "1) Yes"
 echo "2) No"
 
@@ -23,6 +24,7 @@ case $choice in
  *)
  	while true; do
  		echo "not one of the options buddy"
+      echo "your a faliure of humanity"
  	done
     ;;
 
